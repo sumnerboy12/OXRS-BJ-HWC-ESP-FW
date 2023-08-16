@@ -40,7 +40,7 @@ OXRS_LILYGOPOE oxrs;
 #define   SENSOR_RESOLUTION_BITS          9     // 9, 10, 11, or 12 bits
 
 // Diverter pin
-#define   DIVERTER_PIN                    1
+#define   DIVERTER_PIN                    I2C_SCL
 
 /*--------------------------- Global Variables ------------------------*/
 // Telemetry variables
