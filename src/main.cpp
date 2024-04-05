@@ -1,5 +1,5 @@
 /**
-  Flow sensor firmware for the Open eXtensible Rack System
+  Hot water cylinder firmware for the Open eXtensible Rack System
   
   GitHub repository:
     https://github.com/sumnerboy12/OXRS-BJ-HWC-ESP-FW
